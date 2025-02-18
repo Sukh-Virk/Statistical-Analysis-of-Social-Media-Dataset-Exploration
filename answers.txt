@@ -1,0 +1,17 @@
+
+
+1. The transformed data  gave us the closest to satisfying the T-test. The reason is because it has the best equal variance at p = 0.556. The
+options are too low or just worse.
+
+
+2. rejecting the null hypothesis of original data means that the two groups are different. However, there is not T-Test assumptions. Thus,
+ it may not be accurate.
+For  the transformed data it means that the groups are different, and the results follow the T-Test assumptions.
+Thus, it is more accurate.
+
+3. The weekly seems like the best option. It smooths out the data from high to low. It also shows a big difference making it easier
+for us to understand. The p values and variance also make sense. It also groups the data making it more realistic and accurate. Thus, it is the best option.
+
+
+4. One way to tell when the most comments were posted is by calculating the average. Thus, I used the mean function on the weekend
+and weekdays to comapare the results. The results reveal that there were more reddit comments on the weekends compared to week days.

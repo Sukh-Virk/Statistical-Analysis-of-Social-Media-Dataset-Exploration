@@ -1,0 +1,53 @@
+Summary for data-1.csv:
+  Mean (x): 8.71769618641382, Mean (y): 12.522874034702584
+  Std Dev (x): 12.15551723122202, Std Dev (y): 6.63996400756785
+  Min (x): -22.635877790008944, Max (x): 35.23705548785129
+  Min (y): -2.565087832693213, Max (y): 27.38415261152477
+  Correlation (x, y): 0.9503256954375483
+
+  data-1 We can see a positive correlation as it is close to positive 1 and the x values range more than the y values
+
+Summary for data-2.csv:
+  Mean (x): -0.7107871267159572, Mean (y): -0.7489869764497991
+  Std Dev (x): 11.481583587790734, Std Dev (y): 6.257917998755848
+  Min (x): -33.2711130771198, Max (x): 27.6470003722073
+  Min (y): -18.621803760419063, Max (y): 14.14731499231748
+  Correlation (x, y): 0.9551531665750373
+
+ data2- Again another positive correlation both have low means and again x has more of a range than y
+
+Summary for data-3.csv:
+  Mean (x): 0.9689074904200939, Mean (y): 8.508535236641327
+  Std Dev (x): 2.235557861057969, Std Dev (y): 1.1493008110024525
+  Min (x): -2.4490643296742807, Max (x): 4.51888491755363
+  Min (y): 6.641734490391763, Max (y): 10.551871022804317
+  Correlation (x, y): 0.9819372646760656
+
+ data3- Even higher correlation at .96 and y has a larger mean.
+
+Summary for data-4.csv:
+  Mean (x): 49.90508614830509, Mean (y): 18.553836525423726
+  Std Dev (x): 28.50861051988193, Std Dev (y): 16.545896442941682
+  Min (x): 0.0, Max (x): 87.3767
+  Min (y): 0.0, Max (y): 44.56504
+  Correlation (x, y): -0.08119306735490815
+
+ data4 -Our first data set with a negative correlation x with weak correlation x has a wider range
+
+Summary for data-5.csv:
+  Mean (x): 49.90999357843095, Mean (y): 18.555524937729086
+  Std Dev (x): 28.500000943801354, Std Dev (y): 16.540796301840782
+  Min (x): 4.337892453674525, Max (x): 91.0528633396976
+  Min (y): 0.0554975075811517, Max (y): 49.93419703633311
+  Correlation (x, y): -0.08823598983058888
+
+ data5- Our Second data set with a negative correlation x with weak correlation x as it is far away from -1
+
+Summary for data-6.csv:
+  Mean (x): 7.21615517960992, Mean (y): 7.602215028237295
+  Std Dev (x): 11.921599067458311, Std Dev (y): 11.764382455006647
+  Min (x): -24.33382075234097, Max (x): 35.402138910929
+  Min (y): -22.9563569970746, Max (y): 36.07987403078143
+  Correlation (x, y): 0.9350685662094906
+
+ data6- Positive correlation and strong correlation both have similar ranges but y range is larger
